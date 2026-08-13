@@ -19,6 +19,9 @@ jobs:
       uses: extractions/setup-just@v3
       with:
         enable-cache: true
+    - name: Install dependencies
+      run: |
+        npm install
     - name: Lint, Test, Build
       run: |
         npm run ci
