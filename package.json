@@ -1,6 +1,6 @@
 {
   "name": "typescript-template",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Github template for typescript projects",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,7 @@
   "homepage": "https://github.com/ahcode0919/typescript-template#readme",
   "devDependencies": {
     "@eslint/js": "^10.0.1",
+    "@types/node": "^22.20.3",
     "eslint": "^10.8.1",
     "typescript": "^6.0.3",
     "typescript-eslint": "^8.67.0",
