@@ -11,6 +11,8 @@ Github template for typescript projects
   - `just setup-fnm`
 - Install dependencies
   - `npm install`
+- Run renaming (migration) script
+  - `just migrate`
 
 ## Commands
 
